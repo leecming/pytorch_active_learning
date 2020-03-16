@@ -1,0 +1,6 @@
+.idea/
+evaluation_data/
+models/
+training_data/
+unlabeled_data/
+validation_data/
